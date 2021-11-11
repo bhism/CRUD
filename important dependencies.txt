@@ -1,0 +1,8 @@
+dependencies
+
+firebase_core: ^1.9.0
+cloud_firestore: ^3.0.0
+
+
+minSdkVersion 23
+multiDexEnabled true
