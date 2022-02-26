@@ -73,7 +73,7 @@ class _HomeState extends State<Home> {
               itemBuilder: (_, index) {
                 return GestureDetector(
                   onTap: () {
-                    Navigator.push(
+                    Navigator.pushReplacement(
                       context,
                       MaterialPageRoute(
                         builder: (_) =>
